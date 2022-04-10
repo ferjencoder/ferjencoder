@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm ferJen full stack web developer
+
 <!--
 **ferjencoder/ferjencoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
