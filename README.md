@@ -8,8 +8,8 @@
 
 #### Skills, tech I use, teams I belong to and stuff...
 
-- HTML / CSS / MD / GIT / Bootstrap / Javascript / VB for Apps / PHP / SAP PS, MM, CO / MS PROJECT / XL POWER QUERY / POWER BI..
+- HTML / CSS / MD / GIT / Bootstrap / Javascript / VB for Apps / PHP / SAP..
 
 - Digital Photoraphy
 
-- Team coffee
+- Team coffee & dog person
