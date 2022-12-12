@@ -8,7 +8,7 @@
 
 #### Skills, tech I use, teams I belong to and stuff...
 
-- HTML / CSS / MD / GIT / Bootstrap / Javascript / VB for Apps / PHP / SAP..
+- React / JavaScript / HTML / CSS / SASS / GIT / Bootstrap / VB for Apps / PHP / SAP..
 
 - Digital Photoraphy
 
