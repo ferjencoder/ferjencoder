@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/Hello!👋 My name is Fernanda, I'm a Full Stack DeveloperFirst+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&pause=500&vCenter=true&width=600&height=70&lines=Hello!👋+My+name+is+Fernanda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&pause=500&vCenter=true&width=600&height=70&lines=Hello!👋+My+name+is+Fernanda;I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
 - I'm currently developing an e-commerce site, exciting stuff!
 - Building my portfolio website
