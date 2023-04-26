@@ -81,10 +81,8 @@
   
 </p>
   
+<h3 align="left">I am also interested in...</h3>
 
-
-#### Other stuff interests i have...
-
-- Digital Photoraphy
-
-- Team coffee & dog person
+- Digital photography: I love capturing moments and exploring the creative possibilities of photography.
+- AI: As a tech enthusiast, I am fascinated by the potential of AI to transform industries and improve lives.
+- Team coffee & dog person: I enjoy bonding with my team over a cup of coffee and taking care of my furry friend.
